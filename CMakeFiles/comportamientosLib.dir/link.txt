@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libcomportamientosLib.a CMakeFiles/comportamientosLib.dir/Comportamientos_Agentes/ingeniero.cpp.o CMakeFiles/comportamientosLib.dir/Comportamientos_Agentes/tecnico.cpp.o CMakeFiles/comportamientosLib.dir/src/comportamientos/comportamiento.cpp.o CMakeFiles/comportamientosLib.dir/src/comportamientos/npcs/excursionista.cpp.o CMakeFiles/comportamientosLib.dir/src/comportamientos/npcs/vandalo.cpp.o
+/usr/bin/ranlib lib/libcomportamientosLib.a

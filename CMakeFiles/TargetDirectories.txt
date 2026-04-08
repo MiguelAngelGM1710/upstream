@@ -1,0 +1,9 @@
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/obj3DLib.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/GLUILib.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/modelosBelkanLib.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/comportamientosLib.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/motorLib.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/practica2.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/practica2SG.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/edit_cache.dir
+/home/mike1710/Escritorio/Inteligencia Artificial/Prácticas/p2/upstream/CMakeFiles/rebuild_cache.dir
